@@ -1,4 +1,4 @@
-# Sokka Prowess Tracker
+# Prowess Tracker
 
 A companion app for Magic: The Gathering players to track Prowess triggers, tokens, and board state.
 
