@@ -1,10 +1,10 @@
-# Privacy Policy for Sokka Prowess Tracker
+# Privacy Policy for Prowess Tracker
 
 **Last updated:** January 7, 2025
 
 ## Overview
 
-Sokka Prowess Tracker ("the App") is a companion app for Magic: The Gathering players. Your privacy is important to us. This policy explains how we handle your data.
+Prowess Tracker ("the App") is a companion app for Magic: The Gathering players. Your privacy is important to us. This policy explains how we handle your data.
 
 ## Data Collection
 
@@ -56,13 +56,13 @@ Email: marcelaltvater@hotmail.de
 
 ---
 
-# Datenschutzerklärung für Sokka Prowess Tracker
+# Datenschutzerklärung für Prowess Tracker
 
 **Stand:** 7. Januar 2025
 
 ## Überblick
 
-Sokka Prowess Tracker („die App") ist eine Begleit-App für Magic: The Gathering Spieler. Ihre Privatsphäre ist uns wichtig. Diese Erklärung beschreibt, wie wir mit Ihren Daten umgehen.
+Prowess Tracker („die App") ist eine Begleit-App für Magic: The Gathering Spieler. Ihre Privatsphäre ist uns wichtig. Diese Erklärung beschreibt, wie wir mit Ihren Daten umgehen.
 
 ## Datenerfassung
 
